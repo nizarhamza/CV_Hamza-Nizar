@@ -93,9 +93,6 @@ cv_nizar_hamza/
 - Programmation créative et projets IoT
 - Développement de solutions énergétiques durables
 
-## 📜 Licence
-
-Ce CV est la propriété intellectuelle de Hamza Nizar. Tous droits réservés.
 
 ---
 

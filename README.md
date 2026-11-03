@@ -1,99 +1,67 @@
 # CV Nizar Hamza
 
-Portfolio numérique interactif d'un ingénieur en Génie Électrique spécialisé en automatique et systèmes embarqués.
+Ingénieur Électricien chez EnerNetPro : centrales photovoltaïques, postes HT et planification de projet (Primavera P6).
 
-## 👨‍💻 À propos
+## Télécharger le CV
 
-Ce repository contient mon CV professionnel présentant mon parcours d'ingénieur en Génie Électrique, diplômé de l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT), avec une spécialisation en automatique et informatique industrielle.
+- [CV en français (PDF)](CV_Hamza_Nizar_FR.pdf)
+- [CV in English (PDF)](CV_Hamza_Nizar_EN.pdf)
 
-## 🎓 Formation
+## À propos
 
-- **Cycle d'ingénieur en Génie Électrique** - ENSIT (2022-2025)
-  - Spécialité : Automatique et Informatique Industrielle
-- **Master de recherche en SIAA** - ENSIT (2024-2025)
-  - Signal Industriel et Automatique Avancé
-- **Cycle préparatoire Math-Physique** - IPEIT (2020-2022)
+Ingénieur en Génie Électrique diplômé de l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT), je travaille chez EnerNetPro sur des projets de centrales photovoltaïques de 10 à 500 MWc et de postes HT : planification et contrôle de projet (PMO, Primavera P6), gestion des livrables d'ingénierie en tant qu'ingénieur indépendant (IE), études de préfaisabilité et de PPA, conception de postes et dimensionnement PV.
 
-## 💼 Expérience Professionnelle
+## Expérience professionnelle
 
-### Ingénieur Technico-commercial - EnerNetPro (En cours)
-Conception et développement de solutions connectées pour le stockage d'énergie.
+### Ingénieur Électricien, EnerNetPro (depuis novembre 2025)
 
-### Stage PFE - e-MBS (6 mois)
-- Conception de solutions de stockage d'énergie pour l'éclairage public et résidentiel
-- Développement d'une carte IoT connectée via 4G avec MQTT broker
+| Projet | Description | Rôle | Période |
+|---|---|---|---|
+| GFR-Puro | Centrale PV de 100 MWc | PMO / Planificateur | Nov. 2025, en cours |
+| Scatec, Sidi Bouzid | Centrale PV de 100 MWc et mise à niveau d'un poste 225/150 kV | Responsable des livrables (Deliverable Owner), EnerNetPro en tant qu'Ingénieur Indépendant | Mai 2026, en cours |
+| TTE-Saddada | Centrale PV de 500 MWc | Étude PPA et conception du poste (SLD, layout sous AutoCAD) | Juil. 2026, en cours |
+| MediS | Centrale PV de 10 MWc | Étude de préfaisabilité pour une société de projet (SPV) | Mai 2026, en cours |
 
-### Stage Technicien - STM (2 mois)
-Réinstallation d'armoire électrique et automatisation de malaxeur à béton.
+Autres études : dimensionnement de centrales PV, notes de calcul de lignes aériennes de transport d'énergie (OHTL).
 
-## 🚀 Projets Techniques
+### Projets personnels (depuis octobre 2026)
 
-### Systèmes Embarqués STM32
-- **Robot Control** : Communication USART, TIMER, EXTIA pour manipulation robotique
-- **IoT Data Transfer** : I2C, ADC, ESP8266 pour transfert de données capteurs
+- **[MCP for Primavera P6](https://github.com/nizarhamza/p6-mcp)** : serveur MCP open source (Python) qui connecte Claude, ChatGPT, Cursor et VS Code aux plannings Primavera P6 : chemin critique, contrôle DCMA 14 points, what-if, risque Monte Carlo et modifications sécurisées de la base P6. Publié dans le registre officiel MCP.
+- **Qantara** (en développement) : application desktop et web de planification de projets (TypeScript, React, Tauri 2) qui lit et écrit les formats Primavera P6 et MS Project, avec moteur d'ordonnancement, tableaux de bord et assistant IA.
 
-### Automatisation Industrielle
-- **TIA Portal** : Automatisation station de sertissage et d'étiquetage (S7-1200, Profibus, Ethernet)
-- **DSP Signal Processing** : Traitement temps réel de signaux ECG (TMS320F28335)
+### Stages
 
-### Projets Académiques
-- **Ball Balancing Table** : Système de contrôle avec Raspberry Pi 4, vision par caméra, algorithmes temps réel
-- **Pendule Inversé** : Modélisation, simulation et contrôle PID/LQR
-- **PFE** : Système intelligent de stockage d'énergie (sim7600E, RP2040, MicroPython, KICAD)
+- **e-MBS**, stage de fin d'études (6 mois, 2025) : système de stockage d'énergie intelligent pour l'éclairage public et le stockage résidentiel et industriel, carte IoT connectée en 4G à un broker MQTT.
+- **STM**, stage technicien (2 mois) : réinstallation de l'armoire électrique d'un malaxeur à béton et étude d'automatisation.
+- **SNB Group (SFBT)**, stage ouvrier (1 mois) : assistance à l'équipe de maintenance.
 
-## 🛠️ Compétences Techniques
+## Formation
 
-### Langages de Programmation
-C, C++, C embarqué, Python, GIT bash
+- **Diplôme d'ingénieur en Génie Électrique**, automatique et informatique industrielle, ENSIT (2022 à 2025)
+- **Master de recherche SIAA** (Signal industriel et automatique avancée), ENSIT (2024 à 2025)
+- **Cycle préparatoire Math-Physique**, IPEIT (2020 à 2022)
 
-### Logiciels & Outils
-- **Automatisme** : TIA Portal, WinCC, Ignition
-- **Embarqué** : CubeIDE, CubeMX, Keil, COOCOX, Code Composer
-- **Simulation** : MATLAB/Simulink, Labview
-- **Développement** : VSCode, KICAD
-- **Gestion de projet** : Primavera P6, MS Project
+## Compétences
 
-### Cartes & Plateformes
-ESP32/8266, Raspberry Pi, STM32, DSP (TMS320), RP2040
+- **Énergie et réseaux** : dimensionnement de centrales PV, études de préfaisabilité et PPA, conception de postes HT/MT (SLD, layout), notes de calcul OHTL, revue de livrables d'ingénierie (CRS)
+- **Gestion de projet** : Primavera P6, MS Project, planning de référence, suivi d'avancement, chemin critique, reporting PMO
+- **CAO** : AutoCAD, KiCad
+- **Automatisme et embarqué** : TIA Portal, WinCC, Ignition, STM32, ESP, Raspberry Pi, DSP, MATLAB/Simulink, LabVIEW
+- **Programmation** : C, C++, C embarqué, Python, MicroPython, TypeScript, React, Rust (Tauri), Git
+- **Langues** : Anglais (B2), Français (B2)
 
-### Langues
-- Français : B2
-- Anglais : B2
-
-## 📫 Contact
+## Contact
 
 - **Email** : nizarh393@gmail.com
 - **Téléphone** : +216 28 413 567
-- **LinkedIn** : [hamza nizar](https://linkedin.com/in/hamzanizar)
+- **LinkedIn** : [Nizar Hamza](https://www.linkedin.com/in/nizar-hamza-59b54b305)
 - **GitHub** : [nizarhamza](https://github.com/nizarhamza)
-- **Localisation** : Manouba, Tunisie
 
-## 📄 Structure du Repository
+## Contenu du repository
 
 ```
-cv_nizar_hamza/
+CV_Hamza-Nizar/
 ├── README.md
-├── CV_nizar_hamza.pdf
-└── [Autres fichiers du projet]
+├── CV_Hamza_Nizar_FR.pdf
+└── CV_Hamza_Nizar_EN.pdf
 ```
-
-## 🎯 Domaines d'Expertise
-
-- Automatique et contrôle industriel
-- Systèmes embarqués (STM32, Raspberry Pi, ESP)
-- IoT et solutions connectées
-- Stockage d'énergie intelligent
-- Traitement du signal
-- Robotique et vision par ordinateur
-
-## 🌟 Centres d'Intérêt
-
-- Technologies et innovation dans les systèmes embarqués
-- Automatisation industrielle
-- Programmation créative et projets IoT
-- Développement de solutions énergétiques durables
-
-
----
-
-⭐ **Actuellement ouvert aux opportunités** dans les domaines de l'automatique, des systèmes embarqués et de l'IoT industriel.
